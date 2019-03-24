@@ -1,3 +1,4 @@
 Line 1 correct line
 adding file for branch checking
 adding for testing no ff merge gir example
+modifying for stash in branch example
